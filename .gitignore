@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+*.pem
+*.tgz
+npm-debug.log*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
